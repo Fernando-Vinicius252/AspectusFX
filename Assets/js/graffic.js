@@ -1,0 +1,1 @@
+const series = chart.addCandlestickSeries();
